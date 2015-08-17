@@ -4,7 +4,7 @@ Cassandra ODM is a lightweight model layer and CQL generator written in javascri
 
 The ODM is currently in alpha (as of v0.0.1). Use at your own risk in production environments.
 
-**Note:** This is an import from [Flux159/cassie-odm](https://github.com/Flux159/cassie-odm), thanks for the original contributors for their efforts.
+**Note:** This is an import from [Flux159/cassie-odm](https://github.com/Flux159/cassie-odm), thanks to the original contributors for their efforts.
 
 Installing
 ----------

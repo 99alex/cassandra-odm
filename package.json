@@ -15,7 +15,7 @@
     "bugs": "http://github.com/wsaleme/cassandra-odm/issues",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/wsaleem/cassandra-odm.git"
+		"url": "git://github.com/wsaleme/cassandra-odm.git"
 	},
 	"scripts": {
 		"test": "node node_modules/.bin/mocha \"test/**/*.js\"",
