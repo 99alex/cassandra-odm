@@ -1,0 +1,40 @@
+{
+	"author": "William Salemé",
+    "name": "cassandra-odm",
+	"description": "Cassandra ODM for Node using the official Datastax Cassandra Node Driver",
+	"version": "0.0.1",
+    "keywords": [
+        "cassandra",
+        "odm",
+        "cql",
+        "orm",
+        "node",
+        "nodejs"
+    ],
+	"homepage": "http://wsaleme.github.io/cassandra-odm",
+    "bugs": "http://github.com/wsaleme/cassandra-odm/issues",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/wsaleem/cassandra-odm.git"
+	},
+	"scripts": {
+		"test": "node node_modules/.bin/mocha \"test/**/*.js\"",
+        "test-coverage": "node node_modules/.bin/istanbul cover node_modules/.bin/_mocha -- -u exports -R spec test/**/*.js"
+	},
+	"engines": {
+		"node": ">=0.12.1"
+	},
+	"dependencies": {
+		"async": "1.4.2",
+		"cassandra-driver": "2.2.0",
+		"pluralize": "1.1.4",
+        "node-uuid": "1.4.1",
+        "long": "2.2.5"
+	},
+	"devDependencies": {
+		"mocha": "^1.20.1",
+        "istanbul": "^0.3.0"
+	},
+	"optionalDependencies": {},
+	"licenses": "MIT"
+}
