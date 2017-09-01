@@ -802,6 +802,7 @@ Its highly recommended that you view at least the above video and read these two
 
 [Cassandra Data Modeling Best Practices Part 1 - Ebay Tech Blog](http://www.ebaytechblog.com/2012/07/16/cassandra-data-modeling-best-practices-part-1/#.U7YP_Y1dU_Q)
 [Cassandra Data Modeling Best Practices Part 2 - Ebay Tech Blog](http://www.ebaytechblog.com/2012/08/14/cassandra-data-modeling-best-practices-part-2/#.U7YQGI1dU_Q)
+[Cassandra Data Modeling with Simple Example](https://www.guru99.com/cassandra-data-model-rules.html)
 
 This is a powerpoint based on the above articles [Cassandra Data Modeling Best Practices](http://www.slideshare.net/jaykumarpatel/cassandra-data-modeling-best-practices).
 
